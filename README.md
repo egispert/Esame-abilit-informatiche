@@ -1,7 +1,7 @@
 # Esame-abilit-informatiche
 La repository contiene uno script bash per copiare file in una certa directory nota e un notebook python.
 La struttura del notebook è adattata in modo preciso a quella del file da cui vengono letti i dati usati nell'esercizio;
-scaricandoli dal link https://adlibitum.oats.inaf.it/monaco/etc/perAbInf.tgz i dati risultano automaticamente organizzati in tre file
+scaricandoli dal link https://adlibitum.oats.inaf.it/monaco/etc/perAbInf.tgz i dati risultano organizzati in tre file
 (Test 1, Test 2 e Test 3), contenuti all'interno di una directory "data". Per questo motivo nel notebook python, al momento di leggere i dati,
 si riporta direttamente il path corrispondente. Bisogna però considerare che il notebook va utilizzato posizionandosi nella directory
 contenente "data". Alcune celle iniziali mostrano la struttura di uno dei file, ovvero Test 1.
