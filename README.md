@@ -10,6 +10,6 @@ I dati sono misure simulate relative a multipoli; lo scopo del notebook è anali
 2) calcolo di covarianza numerica e teorica
 3) confronto delle due e calcolo della distribuzione dei residui normalizzati, verificando che sia una normale standard (procedura di validazione)
 4) grafici delle matrici di covarianza
-5) estensione della procedura a tre multipoli pari: ripetere step 2-3-4, includendo le cross-correlazioni
+5) estensione della procedura a tre multipoli pari: ripetere step 1 (leggendo tutti e tre i multipoli pari),2,3,4, includendo le cross-correlazioni
 6) ripetizione di step 5 per Test 2
 7) ripetizione di step 5 per Test 3
